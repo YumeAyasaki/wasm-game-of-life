@@ -1,4 +1,3 @@
-<div>Note: Just some other notes</div>
 <div align="center">
 
   <h1><code>wasm-pack-template</code></h1>
